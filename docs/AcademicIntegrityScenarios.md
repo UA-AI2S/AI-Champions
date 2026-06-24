@@ -1,6 +1,14 @@
 Task 3 is the **Academic Integrity Scenario Analysis** — participants apply a disclosure reasoning framework to four deliberately ambiguous AI use situations 
 in a university context,  recording a verdict on appropriateness, disclosure, audience, and policy reasoning. 
 
+***
+
+## University of Arizona Responsible AI
+* [AI Guidelines and Principles](https://responsibleai.arizona.edu/ai-arizona/ai-guidelines-principles)
+* [AI Tools & Data Use Guide](https://responsibleai.arizona.edu/ai-tools-guide)
+* [Generative AI in Research](https://research.arizona.edu/compliance/research-integrity-program/generative-ai-in-research)
+
+
 ---
 
 ## Scenario 1 — Personalized Student Feedback
@@ -66,6 +74,7 @@ justify the data handling? Does the lack of an institutional policy on this tool
 
 **Policy pressure points:** FERPA (directly applicable); institutional IT data governance policy; the workbook's principle 
 that "absence of policy is not permission."
+
 
 ---
 
