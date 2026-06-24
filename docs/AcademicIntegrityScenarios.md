@@ -47,7 +47,7 @@ He did review and substantially edit it. But the tenure committee is making a hi
 they believe is a personally authored document. Is this categorically different from asking a staff member to draft a letter from your notes, 
 which is common practice? Or does the implied personal authorship of a reference letter make AI involvement a material fact?
 
-**Policy pressure points:** AAU 2023 statement; institutional tenure and promotion policy; professional ethics norms around letters of reference; 
+**Policy pressure points:**  institutional tenure and promotion policy; professional ethics norms around letters of reference; 
 the distinction between "ethically questionable" and "policy-violating."
 
 ---
